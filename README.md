@@ -1,7 +1,7 @@
 # North-Carolina-Wildlife
 A repository created for MAP671, specifically a map of North Carolina and areas with enough acreage for specific wildlife species.
 
-Project Title: North Carolina Wildlife Habitat Map
+# Project Title: North Carolina Wildlife Habitat Map
 
 Information to be used in the map includes, A basemap used for census information and a basemap of north carolina, 2010 urban coverage shapefiles to represent urban sprawl, and North Carolina natural areas to represent suitable habitat for wildlife species.
 
