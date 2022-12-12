@@ -1,7 +1,7 @@
 # North-Carolina-Red-Wolf-Habitat
 A repository created for MAP671, specifically a map of North Carolina and areas with enough acreage for specific wildlife species.
 
-** Project Title: North Carolina Red Wolf Habitat Map **
+**Project Title: North Carolina Red Wolf Habitat Map**
 
 Information to be used in the map includes, A basemap used for census information and a basemap of north carolina, 2010 urban coverage shapefiles to represent urban sprawl, and North Carolina natural areas to represent suitable habitat for wildlife species.
 
