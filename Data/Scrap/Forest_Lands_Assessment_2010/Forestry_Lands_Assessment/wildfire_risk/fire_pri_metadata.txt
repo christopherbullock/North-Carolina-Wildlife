@@ -1,0 +1,249 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Online_Linkage: http://www.ncforestservice.gov
+      Title: Protecting Forests and Communities from Wildfire Risk
+      Geospatial_Data_Presentation_Form: vector digital data
+      Originator: North Carolina Division of Forest Resources
+      Publication_Information:
+        Publisher: NC Division of Forest Resources - Central Office (CO) GIS Program
+        Publication_Place: Raleigh, NC
+      Publication_Date: 20100804
+  Native_Data_Set_Environment: Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500
+  Description:
+    Abstract:
+      Protecting Forests and Communities from Wildfire Risk (FIGURE 1b-3)
+
+      The Protecting Forests and Communities from Wildfire Risk map shows areas of North Carolina where wildfire mitigation and preparedness efforts can reduce loss of life and property, and prevent degradation of the forest resource due to intense fires typical of southern forests. These lands rank high for wildfire susceptibility in the Southern Wildfire Risk Assessment System (ArcGIS software). Many of these areas are considered to be within the wildland-urban interface, and many are owned by individuals who may be unfamiliar with the role of fire in southern forests and firewise building principles.
+    Purpose:
+      The identification of urban and rural priority areas is a requirement of all statewide assessments of forest resources, as specified in the S&PF Redesign guidance developed by the USDA Forest Service: State forest resource assessments will identify, describe, and spatially define forest landscape areas where forestry program outreach and activity will be emphasized and coordinated. Establishment of these priority areas is intended to (1) enable the efficient, strategic, and focused use of limited program resources; (2) address current state and national resource management priorities; and (3) produce the most benefit in terms of critical forest resource values and public benefits. This component of a states assessment should be geospatially based.
+
+      Mapped priority areas provide a method for focusing on areas where federal investment can most effectively stimulate or leverage desired action and engage multiple partners. Mapping must enable the discovery of multistate areas in which collaboration can lead to stronger outcomes. Accomplishments using federal funds may be evaluated against priority areas to determine the effectiveness of S&PF program implementation.
+    Supplemental_Information: Two sets of priority maps were developed for North Carolina. The first set (1) shows areas of specific emphasis in North Carolina according to themes identified during the assessment process and (2) aligns with programmatic funding available from USDA Forest Service S&PF. These maps show areas of emphasis for these assessment themes: Conserving Working Forestlands, Protecting Forests and Communities from Wildfire Risk, Threats to Forest Health, and Maintaining Viable Urban Forests. The second set of maps shows overall urban and rural forest priority landscapes.
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -84.419437
+      East_Bounding_Coordinate: -75.417534
+      North_Bounding_Coordinate: 36.615337
+      South_Bounding_Coordinate: 33.728955
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: environment
+    Theme:
+      Theme_Keyword_Thesaurus: EPA GIS Keyword Thesaurus
+      Theme_Keyword: Ecology
+      Theme_Keyword: Environment
+      Theme_Keyword: Hazards
+      Theme_Keyword: Land
+      Theme_Keyword: Management
+      Theme_Keyword: Modeling
+      Theme_Keyword: Natural Resources
+      Theme_Keyword: Response
+      Theme_Keyword: Risk
+      Theme_Keyword: Wildfire risk
+    Place:
+      Place_Keyword_Thesaurus: None
+      Place_Keyword: North Carolina
+      Place_Keyword: United States
+  Time_Period_of_Content:
+    Currentness_Reference: Publication date
+    Time_Period_Information:
+      Single_Date/Time:
+        Calendar_Date: 20100701
+  Status:
+    Maintenance_and_Update_Frequency: As needed
+    Progress: Complete
+  Access_Constraints: None. Data subject to NC Public Records Law, NC General Statute 132.
+  Use_Constraints: None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the NC Division of Forest Resources would be appreciated.
+  Security_Information:
+    Security_Classification_System: NC Public Records Law, GS132
+    Security_Classification: No Confidentiality
+    Security_Handling_Description: Standard Technical Controls
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NC Division of Forest Resources, Central Office (CO) GIS Program
+        Contact_Person: Andrew D. Bailey
+      Contact_Position: GIS Coordination Forester
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 1616 Mail Service Center
+        City: Raleigh
+        State_or_Province: NC
+        Postal_Code: 27699-1616
+      Contact_Voice_Telephone: (919) 857-4812
+      Contact_Facsimile_Telephone: (919) 857-4803
+      Contact_Electronic_Mail_Address: Andrew.Bailey@ncdenr.gov
+      Contact_Instructions: http://www.dfr.state.nc.us/
+Data_Quality_Information:
+  Lineage:
+    Process_Step:
+      Process_Description: Dataset moved.
+      Process_Date: Unknown
+    Process_Step:
+      Process_Description: Metadata imported.
+      Process_Date: Unknown
+  Logical_Consistency_Report: Tests for integrity have not been performed.
+  Completeness_Report: Features represented have not been tested for completeness
+  Positional_Accuracy:
+    Horizontal_Positional_Accuracy:
+      Horizontal_Positional_Accuracy_Report: Data were derived from existing GIS data.  The original datasets were created with methods accurate to within XX meters.  See the NC State Assessment Forest Resource for a complete discussion of creation methods and accuracy.
+Metadata_Reference_Information:
+  Metadata_Date: 20121003
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NC Division of Forest Resources, Central Office (CO) GIS Program
+        Contact_Person: Andrew D. Bailey
+      Contact_Position: GIS Coordination Forester
+      Contact_Address:
+        Address_Type: mailing address
+        Address: 1616 Mail Service Center
+        City: Raleigh
+        State_or_Province: NC
+        Postal_Code: 27699-1616
+      Contact_Voice_Telephone: (919) 857-4812
+      Contact_Facsimile_Telephone: (919) 857-4803
+      Contact_Electronic_Mail_Address: Andrew.Bailey@ncdenr.gov
+      Contact_Instructions: http://www.dfr.state.nc.us/
+  Metadata_Extensions:
+    Online_Linkage: http://www.esri.com/metadata/esriprof80.html
+    Profile_Name: ESRI Metadata Profile
+  Metadata_Standard_Name: FGDC Content Standards for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
+  Metadata_Time_Convention: local time
+  Metadata_Access_Constraints: None
+  Metadata_Use_Constraints:
+    This metadata file is to accompany the dataset. NCCGIA does not
+    support secondary distribution of this dataset without its current,
+    compliant metadata record. If the dataset described in this metadata
+    record was received from anyone besides NCCGIA, this metadata and
+    the dataset it describes may contain discrepancies.
+Spatial_Data_Organization_Information:
+  Direct_Spatial_Reference_Method: Raster
+  Raster_Object_Information:
+    Raster_Object_Type: Grid Cell
+    Row_Count: 11134
+    Column_Count: 27956
+    Vertical_Count: 1
+Entity_and_Attribute_Information:
+  Detailed_Description:
+    Entity_Type:
+      Entity_Type_Label: fire_priority
+      Entity_Type_Definition: Fire priority areas
+      Entity_Type_Definition_Source: Division of Forest Resources
+    Attribute:
+      Attribute_Label: Rowid
+      Attribute_Definition: Internal feature number.
+      Attribute_Definition_Source: ESRI
+      Attribute_Domain_Values:
+        Unrepresentable_Domain: Sequential unique whole numbers that are automatically generated.
+    Attribute:
+      Attribute_Label: VALUE
+      Attribute_Definition: Pixel value.
+      Attribute_Definition_Source: Division of Forest Resources
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 1
+          Enumerated_Domain_Value_Definition: Pixel value of 1.
+          Enumerated_Domain_Value_Definition_Source: Division of Forest Resources
+    Attribute:
+      Attribute_Label: COUNT
+      Attribute_Definition: The count of the number of pixels with the same value.
+      Attribute_Definition_Source: Division of Forest Resources
+      Attribute_Domain_Values:
+        Enumerated_Domain:
+          Enumerated_Domain_Value: 54389013
+          Enumerated_Domain_Value_Definition: Number of pixels with value of 1.
+          Enumerated_Domain_Value_Definition_Source: Division of Forest Resources
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Planar:
+      Planar_Coordinate_Information:
+        Planar_Coordinate_Encoding_Method: coordinate pair
+        Coordinate_Representation:
+          Abscissa_Resolution: 0.00001
+          Ordinate_Resolution: 0.00001
+        Planar_Distance_Units: meters
+      Grid_Coordinate_System:
+        Grid_Coordinate_System_Name: State Plane Coordinate System 1983
+        State_Plane_Coordinate_System:
+          SPCS_Zone_Identifier: 3200
+          Lambert_Conformal_Conic:
+            Standard_Parallel: 34.333333
+            Standard_Parallel: 36.166667
+            Longitude_of_Central_Meridian: -79.000000
+            Latitude_of_Projection_Origin: 33.750000
+            False_Easting: 609601.220000
+            False_Northing: 0.000000
+    Geodetic_Model:
+      Horizontal_Datum_Name: North American Datum of 1983
+      Ellipsoid_Name: Geodetic Reference System 1980
+      Semi-major_Axis: 6378137.000000
+      Denominator_of_Flattening_Ratio: 298.257222
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NC CGIA
+      Contact_Address:
+        Address_Type: Physical
+        Address: 333 E. Six Forks Road
+        City: Raleigh
+        State_or_Province: North Carolina
+        Postal_Code: 27609
+        Country: U.S.A.
+      Contact_Address:
+        Address_Type: Mailing
+        Address: 20322 Mail Service Center
+        City: Raleigh
+        State_or_Province: North Carolina
+        Postal_Code: 27699
+        Country: U.S.A.
+      Contact_Voice_Telephone: 919-754-6580
+      Contact_Facsimile_Telephone: 919-715-8551
+      Contact_Electronic_Mail_Address: dataq@its.nc.gov
+      Hours_of_Service: 8am to 5pm
+      Contact_Instructions: Phone and electronic mail preferred
+  Resource_Description: Downloadable Data
+  Distribution_Liability:
+    NCCGIA is charged with the development and maintenance
+    of NC OneMap and, in cooperation with other mapping
+    organizations, is committed to offering its users accurate,
+    useful, and current information. Although
+    every effort has been made to ensure the accuracy of
+    information, errors and conditions originating from
+    physical sources used to develop this dataset may be
+    reflected in the data supplied. The user must be
+    aware of possible conditions and bear responsibility for
+    the appropriate use of the information with respect to
+    possible errors, original map scale, collection methodology,
+    currency of data, and other conditions specific to certain
+    data. NCCGIA does not support secondary distribution of
+    this dataset without its current, compliant metadata record. The
+    use of trade names or commercial products does not constitute their
+    endorsement by NCCGIA or North Carolina State Government.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: ESRI shapefile (*.shp)
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: ftp://ftp.nconemap.com/outgoing/vector/wildfire_risk.zip
+    Fees: None. Download from www.nconemap.com is free of charge.
+  Custom_Order_Process:
+    Data can be customized on a cost-recovery basis. Contact dataq@its.nc.gov
+    or 919-754-6580 for more information.
+  Technical_Prerequisites:
+    All formats available from www.nconemap.com are in ESRI shapefile.
+    Other formats are available on a cost-recovery basis - contact
+    dataq@its.nc.gov or 919-754-6580 for more information. Format
+    compatibility is the user's responsibility.
+  Available_Time_Period:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 20100804
+        Ending_Date: Present

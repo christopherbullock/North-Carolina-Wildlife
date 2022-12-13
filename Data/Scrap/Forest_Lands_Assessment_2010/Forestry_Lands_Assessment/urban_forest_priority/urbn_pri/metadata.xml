@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata><idinfo><citation><citeinfo><origin>North Carolina Division of Forest Resources</origin><pubdate>20100804</pubdate><title>Maintaining Viable Urban Forests</title><geoform>vector digital data</geoform><pubinfo><pubplace>Raleigh, NC</pubplace><publish>NC Division of Forest Resources - Central Office (CO) GIS Program</publish></pubinfo><onlink>http://www.ncforestservice.gov</onlink></citeinfo></citation><descript><abstract>
+Maintaining Viable Urban Forests (FIGURE 1b-5)
+
+The Maintaining Viable Urban Forests map shows areas of North Carolina that are essential for restoring, conserving, and maintaining healthy urban trees and forests. These lands are experiencing rapid urbanization, increased amounts of impervious surface, and a higher number of catastrophic storm events, while also having tree canopy potential to offset the negative impacts of land-use change. These urban forestlands also have high values for energy conservation and improved air quality. Many municipalities within the priority areas manage their urban forests with limited resources and lack one or more of the components necessary for a sustained community forestry program. Coordinated planning and management of urban forests across jurisdictional boundaries will require new partnerships and initiatives at municipal, county, and statewide levels.
+</abstract><purpose>
+The identification of urban and rural priority areas is a requirement of all statewide assessments of forest resources, as specified in the S&amp;PF Redesign guidance developed by the USDA Forest Service: State forest resource assessments will identify, describe, and spatially define forest landscape areas where forestry program outreach and activity will be emphasized and coordinated. Establishment of these priority areas is intended to (1) enable the efficient, strategic, and focused use of limited program resources; (2) address current state and national resource management priorities; and (3) produce the most benefit in terms of critical forest resource values and public benefits. This component of a states assessment should be geospatially based.
+
+Mapped priority areas provide a method for focusing on areas where federal investment can most effectively stimulate or leverage desired action and engage multiple partners. Mapping must enable the discovery of multistate areas in which collaboration can lead to stronger outcomes. Accomplishments using federal funds may be evaluated against priority areas to determine the effectiveness of S&amp;PF program implementation.
+</purpose><supplinf>Two sets of priority maps were developed for North Carolina. The first set (1) shows areas of specific emphasis in North Carolina according to themes identified during the assessment process and (2) aligns with programmatic funding available from USDA Forest Service S&amp;PF. These maps show areas of emphasis for these assessment themes: Conserving Working Forestlands, Protecting Forests and Communities from Wildfire Risk, Threats to Forest Health, and Maintaining Viable Urban Forests. The second set of maps shows overall urban and rural forest priority landscapes.</supplinf></descript><timeperd><timeinfo><sngdate><caldate>20100701</caldate></sngdate></timeinfo><current>Publication date</current></timeperd><status><progress>Complete</progress><update>As needed</update></status><spdom><bounding><westbc>-84.313463</westbc><eastbc>-75.417988</eastbc><northbc>36.590199</northbc><southbc>33.733362</southbc></bounding></spdom><keywords><theme><themekt>ISO 19115 Topic Category</themekt><themekey>environment</themekey></theme><theme><themekt>EPA GIS Keyword Thesaurus</themekt><themekey>Conservation</themekey><themekey>Ecology</themekey><themekey>Ecosystem</themekey><themekey>Environment</themekey><themekey>Human</themekey><themekey>Land</themekey><themekey>Management</themekey><themekey>Modeling</themekey><themekey>Natural Resources</themekey><themekey>Response</themekey><themekey>Risk</themekey><themekey>Urban forest</themekey><themekey>Urban</themekey></theme><place><placekt>None</placekt><placekey>North Carolina</placekey><placekey>United States</placekey></place></keywords><accconst>None. Data subject to NC Public Records Law, NC General Statute 132.</accconst><useconst>None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata.  Acknowledgement of the NC Division of Forest Resources would be appreciated.</useconst><ptcontac><cntinfo><cntorgp><cntorg>NC Division of Forest Resources, Central Office (CO) GIS Program</cntorg><cntper>Andrew D. Bailey</cntper></cntorgp><cntpos>GIS Coordination Forester</cntpos><cntaddr><addrtype>mailing address</addrtype><address>1616 Mail Service Center</address><city>Raleigh</city><state>NC</state><postal>27699-1616</postal></cntaddr><cntvoice>(919) 857-4812</cntvoice><cntfax>(919) 857-4803</cntfax><cntemail>Andrew.Bailey@ncdenr.gov</cntemail><cntinst>http://www.dfr.state.nc.us/</cntinst></cntinfo></ptcontac><secinfo><secsys>NC Public Records Law, GS132</secsys><secclass>No Confidentiality</secclass><sechandl>Standard Technical Controls</sechandl></secinfo><native>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</native></idinfo><dataqual><logic>Tests for integrity have not been performed.</logic><complete>Features represented have not been tested for completeness</complete><posacc><horizpa><horizpar>Data were derived from existing GIS data.  The original datasets were created with methods accurate to within XX meters.  See the NC State Assessment Forest Resource for a complete discussion of creation methods and accuracy.</horizpar></horizpa></posacc><lineage><procstep><procdesc>Dataset moved.</procdesc><procdate>Unknown</procdate></procstep><procstep><procdesc>Metadata imported.</procdesc><procdate>Unknown</procdate></procstep></lineage></dataqual><spdoinfo><direct>Raster</direct><rastinfo><rasttype>Grid Cell</rasttype><rowcount>11133</rowcount><colcount>27955</colcount><vrtcount>1</vrtcount></rastinfo></spdoinfo><spref><horizsys><planar><gridsys><gridsysn>State Plane Coordinate System 1983</gridsysn><spcs><spcszone>3200</spcszone><lambertc><stdparll>34.333333</stdparll><stdparll>36.166667</stdparll><longcm>-79.000000</longcm><latprjo>33.750000</latprjo><feast>609601.220000</feast><fnorth>0.000000</fnorth></lambertc></spcs></gridsys><planci><plance>coordinate pair</plance><coordrep><absres>0.00001</absres><ordres>0.00001</ordres></coordrep><plandu>meters</plandu></planci></planar><geodetic><horizdn>North American Datum of 1983</horizdn><ellips>Geodetic Reference System 1980</ellips><semiaxis>6378137.000000</semiaxis><denflat>298.257222</denflat></geodetic></horizsys></spref><eainfo><detailed><enttyp><enttypl>urban_pri_join</enttypl><enttypd>Urban Forest priority</enttypd><enttypds>Division of Forest Resources</enttypds></enttyp><attr><attrlabl>Priority</attrlabl><attrdef>Internal feature number.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl>Rowid</attrlabl><attrdef>Internal feature number.</attrdef><attrdefs>ESRI</attrdefs><attrdomv><udom>Sequential unique whole numbers that are automatically generated.</udom></attrdomv></attr><attr><attrlabl>VALUE</attrlabl><attrdef>Pixel value.</attrdef><attrdefs>Division of Forest Resources</attrdefs><attrdomv><edom><edomv>1</edomv><edomvd>Pixel value of 1.</edomvd><edomvds>Division of Forest Resources</edomvds></edom></attrdomv></attr><attr><attrlabl>COUNT</attrlabl><attrdef>The count of the number of pixels with the same value.</attrdef><attrdefs>Division of Forest Resources</attrdefs><attrdomv><edom><edomv>54389013</edomv><edomvd>Number of pixels with value of 1.</edomvd><edomvds>Division of Forest Resources</edomvds></edom></attrdomv></attr><attr><attrlabl>PRIORITY</attrlabl><attrdef>Priority given to need of urban forests.</attrdef><attrdefs>Division of Forest Resources</attrdefs><attrdomv><edom><edomv>Very high</edomv><edomvd>Very high priority.</edomvd><edomvds>Division of Forest Resources</edomvds></edom></attrdomv><attrdomv><edom><edomv>High</edomv><edomvd>High priority.</edomvd><edomvds>Division of Forest Resources</edomvds></edom></attrdomv><attrdomv><edom><edomv>Medium</edomv><edomvd>Medium priority.</edomvd><edomvds>Division of Forest Resources</edomvds></edom></attrdomv><attrdomv><edom><edomv>Low</edomv><edomvd>Low priority.</edomvd><edomvds>Division of Forest Resources</edomvds></edom></attrdomv><attrdomv><edom><edomv>Very low</edomv><edomvd>Very low priority.</edomvd><edomvds>Division of Forest Resources</edomvds></edom></attrdomv></attr></detailed></eainfo><distinfo><distrib><cntinfo><cntorgp><cntorg>NC CGIA</cntorg></cntorgp><cntaddr><addrtype>Physical</addrtype><address>333 E. Six Forks Road</address><city>Raleigh</city><state>North Carolina</state><postal>27609</postal><country>U.S.A.</country></cntaddr><cntaddr><addrtype>Mailing</addrtype><address>20322 Mail Service Center</address><city>Raleigh</city><state>North Carolina</state><postal>27699</postal><country>U.S.A.</country></cntaddr><cntvoice>919-754-6580</cntvoice><cntfax>919-715-8551</cntfax><cntemail>dataq@its.nc.gov</cntemail><hours>8am to 5pm</hours><cntinst>Phone and electronic mail preferred</cntinst></cntinfo></distrib><resdesc>Downloadable Data</resdesc><distliab>
+NCCGIA is charged with the development and maintenance
+of NC OneMap and, in cooperation with other mapping
+organizations, is committed to offering its users accurate,
+useful, and current information. Although
+every effort has been made to ensure the accuracy of
+information, errors and conditions originating from
+physical sources used to develop this dataset may be
+reflected in the data supplied. The user must be
+aware of possible conditions and bear responsibility for
+the appropriate use of the information with respect to
+possible errors, original map scale, collection methodology,
+currency of data, and other conditions specific to certain
+data. NCCGIA does not support secondary distribution of
+this dataset without its current, compliant metadata record. The
+use of trade names or commercial products does not constitute their
+endorsement by NCCGIA or North Carolina State Government.
+</distliab><stdorder><digform><digtinfo><formname>ESRI shapefile (*.shp)</formname></digtinfo><digtopt><onlinopt><computer><networka><networkr>ftp://ftp.nconemap.com/outgoing/vector/urban_forest_priority.zip</networkr></networka></computer></onlinopt></digtopt></digform><fees>None. Download from www.nconemap.com is free of charge.</fees></stdorder><custom>
+Data can be customized on a cost-recovery basis. Contact dataq@its.nc.gov
+or 919-754-6580 for more information.
+</custom><techpreq>
+All formats available from www.nconemap.com are in ESRI shapefile.
+Other formats are available on a cost-recovery basis - contact
+dataq@its.nc.gov or 919-754-6580 for more information. Format
+compatibility is the user's responsibility.
+</techpreq><availabl><timeinfo><rngdates><begdate>20100804</begdate><enddate>Present</enddate></rngdates></timeinfo></availabl></distinfo><metainfo><metd>20100804</metd><metfrd>20140804</metfrd><metc><cntinfo><cntorgp><cntorg>NC Division of Forest Resources, Central Office (CO) GIS Program</cntorg><cntper>Andrew D. Bailey</cntper></cntorgp><cntpos>GIS Coordination Forester</cntpos><cntaddr><addrtype>mailing address</addrtype><address>1616 Mail Service Center</address><city>Raleigh</city><state>NC</state><postal>27699-1616</postal></cntaddr><cntvoice>(919) 857-4812</cntvoice><cntfax>(919) 857-4803</cntfax><cntemail>Andrew.Bailey@ncdenr.gov</cntemail><cntinst>http://www.dfr.state.nc.us/</cntinst></cntinfo></metc><metstdn>FGDC Content Standards for Digital Geospatial Metadata</metstdn><metstdv>FGDC-STD-001-1998</metstdv><mettc>local time</mettc><metac>None</metac><metuc>
+This metadata file is to accompany the dataset. NCCGIA does not
+support secondary distribution of this dataset without its current,
+compliant metadata record. If the dataset described in this metadata
+record was received from anyone besides NCCGIA, this metadata and
+the dataset it describes may contain discrepancies.
+</metuc><metextns><onlink>http://www.esri.com/metadata/esriprof80.html</onlink><metprof>ESRI Metadata Profile</metprof></metextns></metainfo><Esri><CreaDate>20121004</CreaDate><CreaTime>09401100</CreaTime><ArcGISstyle>FGDC CSDGM Metadata</ArcGISstyle><SyncOnce>TRUE</SyncOnce><DataProperties><itemProps><itemLocation><linkage Sync="TRUE">file://\\L-CNU2251F22\C$\Users\dpgiordano1\Desktop\nc_forest_service_release\output\urbn_frst_pri\urbn_pri</linkage><protocol Sync="TRUE">Local Area Network</protocol></itemLocation><imsContentType>002</imsContentType></itemProps><copyHistory><copy source="C:\Users\dpgiordano1\Documents\CGIA\NCOneMap\database_current\urban_forest_priority\current\urbn_pri" dest="\\L-CNU2251F22\C$\Users\dpgiordano1\Desktop\nc_forest_service_release\output\urbn_frst_pri\urbn_pri" date="20121004" time="09401100"/></copyHistory></DataProperties><ArcGISFormat>1.0</ArcGISFormat></Esri><mdLang><languageCode value="eng"/></mdLang><mdChar><CharSetCd value="004"/></mdChar><mdHrLv><ScopeCd value="005"/></mdHrLv><mdContact><rpIndName>Andrew D. Bailey</rpIndName><rpOrgName>NC Division of Forest Resources, Central Office (CO) GIS Program</rpOrgName><rpPosName>GIS Coordination Forester</rpPosName><rpCntInfo><cntPhone><voiceNum>(919) 857-4812</voiceNum><faxNum>(919) 857-4803</faxNum></cntPhone><cntAddress addressType="postal"><delPoint>1616 Mail Service Center</delPoint><city>Raleigh</city><adminArea>NC</adminArea><postCode>27699-1616</postCode><eMailAdd>Andrew.Bailey@ncdenr.gov</eMailAdd></cntAddress><cntInstr>http://www.dfr.state.nc.us/</cntInstr></rpCntInfo><role><RoleCd value="007"/></role></mdContact><mdDateSt>20100804</mdDateSt><mdStanName>ArcGIS Metadata</mdStanName><mdStanVer>1.0</mdStanVer><distInfo><distributor><distorCont><rpOrgName>NC CGIA</rpOrgName><rpCntInfo><cntPhone><voiceNum>919-754-6580</voiceNum><faxNum>919-715-8551</faxNum></cntPhone><cntAddress addressType="postal"><delPoint>20322 Mail Service Center</delPoint><city>Raleigh</city><adminArea>North Carolina</adminArea><postCode>27699</postCode><country>U.S.A.</country><eMailAdd>dataq@its.nc.gov</eMailAdd></cntAddress><cntHours>8am to 5pm</cntHours><cntInstr>Phone and electronic mail preferred</cntInstr></rpCntInfo><role><RoleCd value="005"/></role></distorCont><distorOrdPrc><resFees>None. Download from www.nconemap.com is free of charge.</resFees><planAvTmPd><tmBegin>2010-08-04</tmBegin><tmEnd date="now"/></planAvTmPd></distorOrdPrc><distorFormat><formatName>ESRI shapefile (*.shp)</formatName></distorFormat><distorTran><onLineSrc><linkage>ftp://ftp.nconemap.com/outgoing/vector/urban_forest_priority.zip</linkage></onLineSrc></distorTran></distributor><distTranOps><onLineSrc><linkage>http://www.ncforestservice.gov</linkage></onLineSrc></distTranOps></distInfo><dataIdInfo><idCitation><resTitle>Maintaining Viable Urban Forests</resTitle><date><pubDate>2010-08-04</pubDate></date><citRespParty><rpOrgName>NC Division of Forest Resources - Central Office (CO) GIS Program</rpOrgName><rpCntInfo><cntAddress><delPoint>Raleigh, NC</delPoint></cntAddress></rpCntInfo><role><RoleCd value="010"/></role></citRespParty><citRespParty><rpOrgName>North Carolina Division of Forest Resources</rpOrgName><role><RoleCd value="006"/></role></citRespParty><presForm><PresFormCd value="005"/></presForm><presForm><fgdcGeoform>vector digital data</fgdcGeoform></presForm></idCitation><idAbs>Maintaining Viable Urban Forests (FIGURE 1b-5) The Maintaining Viable Urban Forests map shows areas of North Carolina that are essential for restoring, conserving, and maintaining healthy urban trees and forests. These lands are experiencing rapid urbanization, increased amounts of impervious surface, and a higher number of catastrophic storm events, while also having tree canopy potential to offset the negative impacts of land-use change. These urban forestlands also have high values for energy conservation and improved air quality. Many municipalities within the priority areas manage their urban forests with limited resources and lack one or more of the components necessary for a sustained community forestry program. Coordinated planning and management of urban forests across jurisdictional boundaries will require new partnerships and initiatives at municipal, county, and statewide levels.</idAbs><idPurp>The identification of urban and rural priority areas is a requirement of all statewide assessments of forest resources, as specified in the S&amp;PF Redesign guidance developed by the USDA Forest Service: State forest resource assessments will identify, describe, and spatially define forest landscape areas where forestry program outreach and activity will be emphasized and coordinated. Establishment of these priority areas is intended to (1) enable the efficient, strategic, and focused use of limited program resources; (2) address current state and national resource management priorities; and (3) produce the most benefit in terms of critical forest resource values and public benefits. This component of a states assessment should be geospatially based. Mapped priority areas provide a method for focusing on areas where federal investment can most effectively stimulate or leverage desired action and engage multiple partners. Mapping must enable the discovery of multistate areas in which collaboration can lead to stronger outcomes. Accomplishments using federal funds may be evaluated against priority areas to determine the effectiveness of S&amp;PF program implementation.</idPurp><idStatus><ProgCd value="001"/></idStatus><idPoC><rpIndName>Andrew D. Bailey</rpIndName><rpOrgName>NC Division of Forest Resources, Central Office (CO) GIS Program</rpOrgName><rpPosName>GIS Coordination Forester</rpPosName><rpCntInfo><cntPhone><voiceNum>(919) 857-4812</voiceNum><faxNum>(919) 857-4803</faxNum></cntPhone><cntAddress addressType="postal"><delPoint>1616 Mail Service Center</delPoint><city>Raleigh</city><adminArea>NC</adminArea><postCode>27699-1616</postCode><eMailAdd>Andrew.Bailey@ncdenr.gov</eMailAdd></cntAddress><cntInstr>http://www.dfr.state.nc.us/</cntInstr></rpCntInfo><role><RoleCd value="007"/></role></idPoC><resMaint><maintFreq><MaintFreqCd value="009"/></maintFreq></resMaint><placeKeys><keyword>United States</keyword><keyword>North Carolina</keyword></placeKeys><themeKeys><keyword>Ecosystem</keyword><keyword>Environment</keyword><keyword>Response</keyword><keyword>Ecology</keyword><keyword>Conservation</keyword><keyword>Management</keyword><keyword>Urban forest</keyword><keyword>Natural Resources</keyword><keyword>Land</keyword><keyword>Risk</keyword><keyword>Human</keyword><keyword>Modeling</keyword><keyword>Urban</keyword><thesaName><resTitle>EPA GIS Keyword Thesaurus</resTitle></thesaName></themeKeys><themeKeys><keyword>environment</keyword><thesaName><resTitle>ISO 19115 Topic Category</resTitle></thesaName></themeKeys><searchKeys><keyword>Ecosystem</keyword><keyword>environment</keyword><keyword>Environment</keyword><keyword>Response</keyword><keyword>Ecology</keyword><keyword>Conservation</keyword><keyword>Management</keyword><keyword>Urban forest</keyword><keyword>Natural Resources</keyword><keyword>United States</keyword><keyword>Land</keyword><keyword>Risk</keyword><keyword>North Carolina</keyword><keyword>Human</keyword><keyword>Modeling</keyword><keyword>Urban</keyword></searchKeys><resConst><LegConsts><useLimit>NCCGIA is charged with the development and maintenance of NC OneMap and, in cooperation with other mapping organizations, is committed to offering its users accurate, useful, and current information. Although every effort has been made to ensure the accuracy of information, errors and conditions originating from physical sources used to develop this dataset may be reflected in the data supplied. The user must be aware of possible conditions and bear responsibility for the appropriate use of the information with respect to possible errors, original map scale, collection methodology, currency of data, and other conditions specific to certain data. NCCGIA does not support secondary distribution of this dataset without its current, compliant metadata record. The use of trade names or commercial products does not constitute their endorsement by NCCGIA or North Carolina State Government.</useLimit><othConsts>None. Data subject to NC Public Records Law, NC General Statute 132.</othConsts></LegConsts></resConst><resConst><SecConsts><classSys>NC Public Records Law, GS132</classSys><handDesc>Standard Technical Controls</handDesc></SecConsts></resConst><resConst><Consts><useLimit>None. Please check sources, scale, accuracy, currentness and other available information. Please confirm that you are using the most recent copy of both data and metadata. Acknowledgement of the NC Division of Forest Resources would be appreciated.</useLimit></Consts></resConst><dataLang><languageCode value="eng"/></dataLang><tpCat><TopicCatCd value="007"/></tpCat><envirDesc>Microsoft Windows XP Version 5.1 (Build 2600) Service Pack 3; ESRI ArcCatalog 9.2.6.1500</envirDesc><dataExt><exDesc>Publication date</exDesc><tempEle><TempExtent><exTemp><TM_Instant><tmPosition>2010-07-01</tmPosition></TM_Instant></exTemp></TempExtent></tempEle></dataExt><dataExt><geoEle><GeoBndBox><westBL>-84.313463</westBL><eastBL>-75.417988</eastBL><southBL>33.733362</southBL><northBL>36.590199</northBL></GeoBndBox></geoEle></dataExt><suppInfo>Two sets of priority maps were developed for North Carolina. The first set (1) shows areas of specific emphasis in North Carolina according to themes identified during the assessment process and (2) aligns with programmatic funding available from USDA Forest Service S&amp;PF. These maps show areas of emphasis for these assessment themes: Conserving Working Forestlands, Protecting Forests and Communities from Wildfire Risk, Threats to Forest Health, and Maintaining Viable Urban Forests. The second set of maps shows overall urban and rural forest priority landscapes.</suppInfo></dataIdInfo><mdMaint><maintFreq><MaintFreqCd value="012"/></maintFreq><dateNext>20140804</dateNext></mdMaint><mdConst><Consts><useLimit>This metadata file is to accompany the dataset. NCCGIA does not support secondary distribution of this dataset without its current, compliant metadata record. If the dataset described in this metadata record was received from anyone besides NCCGIA, this metadata and the dataset it describes may contain discrepancies.</useLimit></Consts></mdConst><dqInfo><dqScope><scpLvl><ScopeCd value="005"/></scpLvl></dqScope><report type="DQConcConsis"><measDesc>Tests for integrity have not been performed.</measDesc></report><report type="DQCompOm"><measDesc>Features represented have not been tested for completeness</measDesc></report><report type="DQAbsExtPosAcc" dimension="horizontal"><measDesc>Data were derived from existing GIS data. The original datasets were created with methods accurate to within XX meters. See the NC State Assessment Forest Resource for a complete discussion of creation methods and accuracy.</measDesc></report><dataLineage><prcStep><stepDesc>Dataset moved.</stepDesc><stepDateTm date="unknown"/></prcStep></dataLineage></dqInfo><spatRepInfo><Georect><numDims>2</numDims><axisDimension type="001"><dimSize>11133</dimSize></axisDimension><axisDimension type="002"><dimSize>27955</dimSize></axisDimension><axisDimension type="003"><dimSize>1</dimSize></axisDimension><cellGeo><CellGeoCd value="002"/></cellGeo></Georect></spatRepInfo><Binary><Enclosure><Descript>original metadata</Descript><Data SourceMetadata="yes" OriginalFileName="source_metadata.xml" SourceMetadataDigest="177814b87aeb72177ebf51b7c52af1" EsriPropertyType="Base64" SourceMetadataSchema="fgdc">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjxtZXRhZGF0YT4NCiAgPGlk
+aW5mbz4NCiAgICA8Y2l0YXRpb24+DQogICAgICA8Y2l0ZWluZm8+DQogICAgICAgIDxvcmlnaW4+
+Tm9ydGggQ2Fyb2xpbmEgRGl2aXNpb24gb2YgRm9yZXN0IFJlc291cmNlczwvb3JpZ2luPg0KICAg
+ICAgICA8cHViZGF0ZT4yMDEwMDgwNDwvcHViZGF0ZT4NCiAgICAgICAgPHRpdGxlPk1haW50YWlu
+aW5nIFZpYWJsZSBVcmJhbiBGb3Jlc3RzPC90aXRsZT4NCiAgICAgICAgPGdlb2Zvcm0+dmVjdG9y
+IGRpZ2l0YWwgZGF0YTwvZ2VvZm9ybT4NCiAgICAgICAgPHB1YmluZm8+DQogICAgICAgICAgPHB1
+YnBsYWNlPlJhbGVpZ2gsIE5DPC9wdWJwbGFjZT4NCiAgICAgICAgICA8cHVibGlzaD5OQyBEaXZp
+c2lvbiBvZiBGb3Jlc3QgUmVzb3VyY2VzIC0gQ2VudHJhbCBPZmZpY2UgKENPKSBHSVMgUHJvZ3Jh
+bTwvcHVibGlzaD4NCiAgICAgICAgPC9wdWJpbmZvPg0KICAgICAgICA8b25saW5rPmh0dHA6Ly93
+d3cubmNmb3Jlc3RzZXJ2aWNlLmdvdjwvb25saW5rPg0KICAgICAgPC9jaXRlaW5mbz4NCiAgICA8
+L2NpdGF0aW9uPg0KICAgIDxkZXNjcmlwdD4NCiAgICAgIDxhYnN0cmFjdD4NCk1haW50YWluaW5n
+IFZpYWJsZSBVcmJhbiBGb3Jlc3RzIChGSUdVUkUgMWItNSkNCg0KVGhlIE1haW50YWluaW5nIFZp
+YWJsZSBVcmJhbiBGb3Jlc3RzIG1hcCBzaG93cyBhcmVhcyBvZiBOb3J0aCBDYXJvbGluYSB0aGF0
+IGFyZSBlc3NlbnRpYWwgZm9yIHJlc3RvcmluZywgY29uc2VydmluZywgYW5kIG1haW50YWluaW5n
+IGhlYWx0aHkgdXJiYW4gdHJlZXMgYW5kIGZvcmVzdHMuIFRoZXNlIGxhbmRzIGFyZSBleHBlcmll
+bmNpbmcgcmFwaWQgdXJiYW5pemF0aW9uLCBpbmNyZWFzZWQgYW1vdW50cyBvZiBpbXBlcnZpb3Vz
+IHN1cmZhY2UsIGFuZCBhIGhpZ2hlciBudW1iZXIgb2YgY2F0YXN0cm9waGljIHN0b3JtIGV2ZW50
+cywgd2hpbGUgYWxzbyBoYXZpbmcgdHJlZSBjYW5vcHkgcG90ZW50aWFsIHRvIG9mZnNldCB0aGUg
+bmVnYXRpdmUgaW1wYWN0cyBvZiBsYW5kLXVzZSBjaGFuZ2UuIFRoZXNlIHVyYmFuIGZvcmVzdGxh
+bmRzIGFsc28gaGF2ZSBoaWdoIHZhbHVlcyBmb3IgZW5lcmd5IGNvbnNlcnZhdGlvbiBhbmQgaW1w
+cm92ZWQgYWlyIHF1YWxpdHkuIE1hbnkgbXVuaWNpcGFsaXRpZXMgd2l0aGluIHRoZSBwcmlvcml0
+eSBhcmVhcyBtYW5hZ2UgdGhlaXIgdXJiYW4gZm9yZXN0cyB3aXRoIGxpbWl0ZWQgcmVzb3VyY2Vz
+IGFuZCBsYWNrIG9uZSBvciBtb3JlIG9mIHRoZSBjb21wb25lbnRzIG5lY2Vzc2FyeSBmb3IgYSBz
+dXN0YWluZWQgY29tbXVuaXR5IGZvcmVzdHJ5IHByb2dyYW0uIENvb3JkaW5hdGVkIHBsYW5uaW5n
+IGFuZCBtYW5hZ2VtZW50IG9mIHVyYmFuIGZvcmVzdHMgYWNyb3NzIGp1cmlzZGljdGlvbmFsIGJv
+dW5kYXJpZXMgd2lsbCByZXF1aXJlIG5ldyBwYXJ0bmVyc2hpcHMgYW5kIGluaXRpYXRpdmVzIGF0
+IG11bmljaXBhbCwgY291bnR5LCBhbmQgc3RhdGV3aWRlIGxldmVscy4NCjwvYWJzdHJhY3Q+DQog
+ICAgICA8cHVycG9zZT4NClRoZSBpZGVudGlmaWNhdGlvbiBvZiB1cmJhbiBhbmQgcnVyYWwgcHJp
+b3JpdHkgYXJlYXMgaXMgYSByZXF1aXJlbWVudCBvZiBhbGwgc3RhdGV3aWRlIGFzc2Vzc21lbnRz
+IG9mIGZvcmVzdCByZXNvdXJjZXMsIGFzIHNwZWNpZmllZCBpbiB0aGUgUyZhbXA7UEYgUmVkZXNp
+Z24gZ3VpZGFuY2UgZGV2ZWxvcGVkIGJ5IHRoZSBVU0RBIEZvcmVzdCBTZXJ2aWNlOiBTdGF0ZSBm
+b3Jlc3QgcmVzb3VyY2UgYXNzZXNzbWVudHMgd2lsbCBpZGVudGlmeSwgZGVzY3JpYmUsIGFuZCBz
+cGF0aWFsbHkgZGVmaW5lIGZvcmVzdCBsYW5kc2NhcGUgYXJlYXMgd2hlcmUgZm9yZXN0cnkgcHJv
+Z3JhbSBvdXRyZWFjaCBhbmQgYWN0aXZpdHkgd2lsbCBiZSBlbXBoYXNpemVkIGFuZCBjb29yZGlu
+YXRlZC4gRXN0YWJsaXNobWVudCBvZiB0aGVzZSBwcmlvcml0eSBhcmVhcyBpcyBpbnRlbmRlZCB0
+byAoMSkgZW5hYmxlIHRoZSBlZmZpY2llbnQsIHN0cmF0ZWdpYywgYW5kIGZvY3VzZWQgdXNlIG9m
+IGxpbWl0ZWQgcHJvZ3JhbSByZXNvdXJjZXM7ICgyKSBhZGRyZXNzIGN1cnJlbnQgc3RhdGUgYW5k
+IG5hdGlvbmFsIHJlc291cmNlIG1hbmFnZW1lbnQgcHJpb3JpdGllczsgYW5kICgzKSBwcm9kdWNl
+IHRoZSBtb3N0IGJlbmVmaXQgaW4gdGVybXMgb2YgY3JpdGljYWwgZm9yZXN0IHJlc291cmNlIHZh
+bHVlcyBhbmQgcHVibGljIGJlbmVmaXRzLiBUaGlzIGNvbXBvbmVudCBvZiBhIHN0YXRlcyBhc3Nl
+c3NtZW50IHNob3VsZCBiZSBnZW9zcGF0aWFsbHkgYmFzZWQuDQoNCk1hcHBlZCBwcmlvcml0eSBh
+cmVhcyBwcm92aWRlIGEgbWV0aG9kIGZvciBmb2N1c2luZyBvbiBhcmVhcyB3aGVyZSBmZWRlcmFs
+IGludmVzdG1lbnQgY2FuIG1vc3QgZWZmZWN0aXZlbHkgc3RpbXVsYXRlIG9yIGxldmVyYWdlIGRl
+c2lyZWQgYWN0aW9uIGFuZCBlbmdhZ2UgbXVsdGlwbGUgcGFydG5lcnMuIE1hcHBpbmcgbXVzdCBl
+bmFibGUgdGhlIGRpc2NvdmVyeSBvZiBtdWx0aXN0YXRlIGFyZWFzIGluIHdoaWNoIGNvbGxhYm9y
+YXRpb24gY2FuIGxlYWQgdG8gc3Ryb25nZXIgb3V0Y29tZXMuIEFjY29tcGxpc2htZW50cyB1c2lu
+ZyBmZWRlcmFsIGZ1bmRzIG1heSBiZSBldmFsdWF0ZWQgYWdhaW5zdCBwcmlvcml0eSBhcmVhcyB0
+byBkZXRlcm1pbmUgdGhlIGVmZmVjdGl2ZW5lc3Mgb2YgUyZhbXA7UEYgcHJvZ3JhbSBpbXBsZW1l
+bnRhdGlvbi4NCjwvcHVycG9zZT4NCiAgICAgIDxzdXBwbGluZj5Ud28gc2V0cyBvZiBwcmlvcml0
+eSBtYXBzIHdlcmUgZGV2ZWxvcGVkIGZvciBOb3J0aCBDYXJvbGluYS4gVGhlIGZpcnN0IHNldCAo
+MSkgc2hvd3MgYXJlYXMgb2Ygc3BlY2lmaWMgZW1waGFzaXMgaW4gTm9ydGggQ2Fyb2xpbmEgYWNj
+b3JkaW5nIHRvIHRoZW1lcyBpZGVudGlmaWVkIGR1cmluZyB0aGUgYXNzZXNzbWVudCBwcm9jZXNz
+IGFuZCAoMikgYWxpZ25zIHdpdGggcHJvZ3JhbW1hdGljIGZ1bmRpbmcgYXZhaWxhYmxlIGZyb20g
+VVNEQSBGb3Jlc3QgU2VydmljZSBTJmFtcDtQRi4gVGhlc2UgbWFwcyBzaG93IGFyZWFzIG9mIGVt
+cGhhc2lzIGZvciB0aGVzZSBhc3Nlc3NtZW50IHRoZW1lczogQ29uc2VydmluZyBXb3JraW5nIEZv
+cmVzdGxhbmRzLCBQcm90ZWN0aW5nIEZvcmVzdHMgYW5kIENvbW11bml0aWVzIGZyb20gV2lsZGZp
+cmUgUmlzaywgVGhyZWF0cyB0byBGb3Jlc3QgSGVhbHRoLCBhbmQgTWFpbnRhaW5pbmcgVmlhYmxl
+IFVyYmFuIEZvcmVzdHMuIFRoZSBzZWNvbmQgc2V0IG9mIG1hcHMgc2hvd3Mgb3ZlcmFsbCB1cmJh
+biBhbmQgcnVyYWwgZm9yZXN0IHByaW9yaXR5IGxhbmRzY2FwZXMuPC9zdXBwbGluZj4NCiAgICA8
+L2Rlc2NyaXB0Pg0KICAgIDx0aW1lcGVyZD4NCiAgICAgIDx0aW1laW5mbz4NCiAgICAgICAgPHNu
+Z2RhdGU+DQogICAgICAgICAgPGNhbGRhdGU+MjAxMDA3MDE8L2NhbGRhdGU+DQogICAgICAgIDwv
+c25nZGF0ZT4NCiAgICAgIDwvdGltZWluZm8+DQogICAgICA8Y3VycmVudD5QdWJsaWNhdGlvbiBk
+YXRlPC9jdXJyZW50Pg0KICAgIDwvdGltZXBlcmQ+DQogICAgPHN0YXR1cz4NCiAgICAgIDxwcm9n
+cmVzcz5Db21wbGV0ZTwvcHJvZ3Jlc3M+DQogICAgICA8dXBkYXRlPkFzIG5lZWRlZDwvdXBkYXRl
+Pg0KICAgIDwvc3RhdHVzPg0KICAgIDxzcGRvbT4NCiAgICAgIDxib3VuZGluZz4NCiAgICAgICAg
+PHdlc3RiYz4tODQuMzEzNDYzPC93ZXN0YmM+DQogICAgICAgIDxlYXN0YmM+LTc1LjQxNzk4ODwv
+ZWFzdGJjPg0KICAgICAgICA8bm9ydGhiYz4zNi41OTAxOTk8L25vcnRoYmM+DQogICAgICAgIDxz
+b3V0aGJjPjMzLjczMzM2Mjwvc291dGhiYz4NCiAgICAgIDwvYm91bmRpbmc+DQogICAgPC9zcGRv
+bT4NCiAgICA8a2V5d29yZHM+DQogICAgICA8dGhlbWU+DQogICAgICAgIDx0aGVtZWt0PklTTyAx
+OTExNSBUb3BpYyBDYXRlZ29yeTwvdGhlbWVrdD4NCiAgICAgICAgPHRoZW1la2V5PmVudmlyb25t
+ZW50PC90aGVtZWtleT4NCiAgICAgIDwvdGhlbWU+DQogICAgICA8dGhlbWU+DQogICAgICAgIDx0
+aGVtZWt0PkVQQSBHSVMgS2V5d29yZCBUaGVzYXVydXM8L3RoZW1la3Q+DQogICAgICAgIDx0aGVt
+ZWtleT5Db25zZXJ2YXRpb248L3RoZW1la2V5Pg0KICAgICAgICA8dGhlbWVrZXk+RWNvbG9neTwv
+dGhlbWVrZXk+DQogICAgICAgIDx0aGVtZWtleT5FY29zeXN0ZW08L3RoZW1la2V5Pg0KICAgICAg
+ICA8dGhlbWVrZXk+RW52aXJvbm1lbnQ8L3RoZW1la2V5Pg0KICAgICAgICA8dGhlbWVrZXk+SHVt
+YW48L3RoZW1la2V5Pg0KICAgICAgICA8dGhlbWVrZXk+TGFuZDwvdGhlbWVrZXk+DQogICAgICAg
+IDx0aGVtZWtleT5NYW5hZ2VtZW50PC90aGVtZWtleT4NCiAgICAgICAgPHRoZW1la2V5Pk1vZGVs
+aW5nPC90aGVtZWtleT4NCiAgICAgICAgPHRoZW1la2V5Pk5hdHVyYWwgUmVzb3VyY2VzPC90aGVt
+ZWtleT4NCiAgICAgICAgPHRoZW1la2V5PlJlc3BvbnNlPC90aGVtZWtleT4NCiAgICAgICAgPHRo
+ZW1la2V5PlJpc2s8L3RoZW1la2V5Pg0KICAgICAgICA8dGhlbWVrZXk+VXJiYW4gZm9yZXN0PC90
+aGVtZWtleT4NCiAgICAgICAgPHRoZW1la2V5PlVyYmFuPC90aGVtZWtleT4NCiAgICAgIDwvdGhl
+bWU+DQogICAgICA8cGxhY2U+DQogICAgICAgIDxwbGFjZWt0Pk5vbmU8L3BsYWNla3Q+DQogICAg
+ICAgIDxwbGFjZWtleT5Ob3J0aCBDYXJvbGluYTwvcGxhY2VrZXk+DQogICAgICAgIDxwbGFjZWtl
+eT5Vbml0ZWQgU3RhdGVzPC9wbGFjZWtleT4NCiAgICAgIDwvcGxhY2U+DQogICAgPC9rZXl3b3Jk
+cz4NCiAgICA8YWNjY29uc3Q+Tm9uZS4gRGF0YSBzdWJqZWN0IHRvIE5DIFB1YmxpYyBSZWNvcmRz
+IExhdywgTkMgR2VuZXJhbCBTdGF0dXRlIDEzMi48L2FjY2NvbnN0Pg0KICAgIDx1c2Vjb25zdD5O
+b25lLiBQbGVhc2UgY2hlY2sgc291cmNlcywgc2NhbGUsIGFjY3VyYWN5LCBjdXJyZW50bmVzcyBh
+bmQgb3RoZXIgYXZhaWxhYmxlIGluZm9ybWF0aW9uLiBQbGVhc2UgY29uZmlybSB0aGF0IHlvdSBh
+cmUgdXNpbmcgdGhlIG1vc3QgcmVjZW50IGNvcHkgb2YgYm90aCBkYXRhIGFuZCBtZXRhZGF0YS4g
+IEFja25vd2xlZGdlbWVudCBvZiB0aGUgTkMgRGl2aXNpb24gb2YgRm9yZXN0IFJlc291cmNlcyB3
+b3VsZCBiZSBhcHByZWNpYXRlZC48L3VzZWNvbnN0Pg0KICAgIDxwdGNvbnRhYz4NCiAgICAgIDxj
+bnRpbmZvPg0KICAgICAgICA8Y250b3JncD4NCiAgICAgICAgICA8Y250b3JnPk5DIERpdmlzaW9u
+IG9mIEZvcmVzdCBSZXNvdXJjZXMsIENlbnRyYWwgT2ZmaWNlIChDTykgR0lTIFByb2dyYW08L2Nu
+dG9yZz4NCiAgICAgICAgICA8Y250cGVyPkFuZHJldyBELiBCYWlsZXk8L2NudHBlcj4NCiAgICAg
+ICAgPC9jbnRvcmdwPg0KICAgICAgICA8Y250cG9zPkdJUyBDb29yZGluYXRpb24gRm9yZXN0ZXI8
+L2NudHBvcz4NCiAgICAgICAgPGNudGFkZHI+DQogICAgICAgICAgPGFkZHJ0eXBlPm1haWxpbmcg
+YWRkcmVzczwvYWRkcnR5cGU+DQogICAgICAgICAgPGFkZHJlc3M+MTYxNiBNYWlsIFNlcnZpY2Ug
+Q2VudGVyPC9hZGRyZXNzPg0KICAgICAgICAgIDxjaXR5PlJhbGVpZ2g8L2NpdHk+DQogICAgICAg
+ICAgPHN0YXRlPk5DPC9zdGF0ZT4NCiAgICAgICAgICA8cG9zdGFsPjI3Njk5LTE2MTY8L3Bvc3Rh
+bD4NCiAgICAgICAgPC9jbnRhZGRyPg0KICAgICAgICA8Y250dm9pY2U+KDkxOSkgODU3LTQ4MTI8
+L2NudHZvaWNlPg0KICAgICAgICA8Y250ZmF4Pig5MTkpIDg1Ny00ODAzPC9jbnRmYXg+DQogICAg
+ICAgIDxjbnRlbWFpbD5BbmRyZXcuQmFpbGV5QG5jZGVuci5nb3Y8L2NudGVtYWlsPg0KICAgICAg
+ICA8Y250aW5zdD5odHRwOi8vd3d3LmRmci5zdGF0ZS5uYy51cy88L2NudGluc3Q+DQogICAgICA8
+L2NudGluZm8+DQogICAgPC9wdGNvbnRhYz4NCiAgICA8c2VjaW5mbz4NCiAgICAgIDxzZWNzeXM+
+TkMgUHVibGljIFJlY29yZHMgTGF3LCBHUzEzMjwvc2Vjc3lzPg0KICAgICAgPHNlY2NsYXNzPk5v
+IENvbmZpZGVudGlhbGl0eTwvc2VjY2xhc3M+DQogICAgICA8c2VjaGFuZGw+U3RhbmRhcmQgVGVj
+aG5pY2FsIENvbnRyb2xzPC9zZWNoYW5kbD4NCiAgICA8L3NlY2luZm8+DQogICAgPG5hdGl2ZT5N
+aWNyb3NvZnQgV2luZG93cyBYUCBWZXJzaW9uIDUuMSAoQnVpbGQgMjYwMCkgU2VydmljZSBQYWNr
+IDM7IEVTUkkgQXJjQ2F0YWxvZyA5LjIuNi4xNTAwPC9uYXRpdmU+DQogIDwvaWRpbmZvPg0KICA8
+ZGF0YXF1YWw+DQogICAgPGxvZ2ljPlRlc3RzIGZvciBpbnRlZ3JpdHkgaGF2ZSBub3QgYmVlbiBw
+ZXJmb3JtZWQuPC9sb2dpYz4NCiAgICA8Y29tcGxldGU+RmVhdHVyZXMgcmVwcmVzZW50ZWQgaGF2
+ZSBub3QgYmVlbiB0ZXN0ZWQgZm9yIGNvbXBsZXRlbmVzczwvY29tcGxldGU+DQogICAgPHBvc2Fj
+Yz4NCiAgICAgIDxob3JpenBhPg0KICAgICAgICA8aG9yaXpwYXI+RGF0YSB3ZXJlIGRlcml2ZWQg
+ZnJvbSBleGlzdGluZyBHSVMgZGF0YS4gIFRoZSBvcmlnaW5hbCBkYXRhc2V0cyB3ZXJlIGNyZWF0
+ZWQgd2l0aCBtZXRob2RzIGFjY3VyYXRlIHRvIHdpdGhpbiBYWCBtZXRlcnMuICBTZWUgdGhlIE5D
+IFN0YXRlIEFzc2Vzc21lbnQgRm9yZXN0IFJlc291cmNlIGZvciBhIGNvbXBsZXRlIGRpc2N1c3Np
+b24gb2YgY3JlYXRpb24gbWV0aG9kcyBhbmQgYWNjdXJhY3kuPC9ob3JpenBhcj4NCiAgICAgIDwv
+aG9yaXpwYT4NCiAgICA8L3Bvc2FjYz4NCiAgICA8bGluZWFnZT4NCiAgICAgIDxwcm9jc3RlcD4N
+CiAgICAgICAgPHByb2NkZXNjPkRhdGFzZXQgbW92ZWQuPC9wcm9jZGVzYz4NCiAgICAgICAgPHBy
+b2NkYXRlPlVua25vd248L3Byb2NkYXRlPg0KICAgICAgPC9wcm9jc3RlcD4NCiAgICAgIDxwcm9j
+c3RlcD4NCiAgICAgICAgPHByb2NkZXNjPk1ldGFkYXRhIGltcG9ydGVkLjwvcHJvY2Rlc2M+DQog
+ICAgICAgIDxwcm9jZGF0ZT5Vbmtub3duPC9wcm9jZGF0ZT4NCiAgICAgIDwvcHJvY3N0ZXA+DQog
+ICAgPC9saW5lYWdlPg0KICA8L2RhdGFxdWFsPg0KICA8c3Bkb2luZm8+DQogICAgPGRpcmVjdD5S
+YXN0ZXI8L2RpcmVjdD4NCiAgICA8cmFzdGluZm8+DQogICAgICA8cmFzdHR5cGU+R3JpZCBDZWxs
+PC9yYXN0dHlwZT4NCiAgICAgIDxyb3djb3VudD4xMTEzMzwvcm93Y291bnQ+DQogICAgICA8Y29s
+Y291bnQ+Mjc5NTU8L2NvbGNvdW50Pg0KICAgICAgPHZydGNvdW50PjE8L3ZydGNvdW50Pg0KICAg
+IDwvcmFzdGluZm8+DQogIDwvc3Bkb2luZm8+DQogIDxzcHJlZj4NCiAgICA8aG9yaXpzeXM+DQog
+ICAgICA8cGxhbmFyPg0KICAgICAgICA8Z3JpZHN5cz4NCiAgICAgICAgICA8Z3JpZHN5c24+U3Rh
+dGUgUGxhbmUgQ29vcmRpbmF0ZSBTeXN0ZW0gMTk4MzwvZ3JpZHN5c24+DQogICAgICAgICAgPHNw
+Y3M+DQogICAgICAgICAgICA8c3Bjc3pvbmU+MzIwMDwvc3Bjc3pvbmU+DQogICAgICAgICAgICA8
+bGFtYmVydGM+DQogICAgICAgICAgICAgIDxzdGRwYXJsbD4zNC4zMzMzMzM8L3N0ZHBhcmxsPg0K
+ICAgICAgICAgICAgICA8c3RkcGFybGw+MzYuMTY2NjY3PC9zdGRwYXJsbD4NCiAgICAgICAgICAg
+ICAgPGxvbmdjbT4tNzkuMDAwMDAwPC9sb25nY20+DQogICAgICAgICAgICAgIDxsYXRwcmpvPjMz
+Ljc1MDAwMDwvbGF0cHJqbz4NCiAgICAgICAgICAgICAgPGZlYXN0PjYwOTYwMS4yMjAwMDA8L2Zl
+YXN0Pg0KICAgICAgICAgICAgICA8Zm5vcnRoPjAuMDAwMDAwPC9mbm9ydGg+DQogICAgICAgICAg
+ICA8L2xhbWJlcnRjPg0KICAgICAgICAgIDwvc3Bjcz4NCiAgICAgICAgPC9ncmlkc3lzPg0KICAg
+ICAgICA8cGxhbmNpPg0KICAgICAgICAgIDxwbGFuY2U+Y29vcmRpbmF0ZSBwYWlyPC9wbGFuY2U+
+DQogICAgICAgICAgPGNvb3JkcmVwPg0KICAgICAgICAgICAgPGFic3Jlcz4wLjAwMDAxPC9hYnNy
+ZXM+DQogICAgICAgICAgICA8b3JkcmVzPjAuMDAwMDE8L29yZHJlcz4NCiAgICAgICAgICA8L2Nv
+b3JkcmVwPg0KICAgICAgICAgIDxwbGFuZHU+bWV0ZXJzPC9wbGFuZHU+DQogICAgICAgIDwvcGxh
+bmNpPg0KICAgICAgPC9wbGFuYXI+DQogICAgICA8Z2VvZGV0aWM+DQogICAgICAgIDxob3JpemRu
+Pk5vcnRoIEFtZXJpY2FuIERhdHVtIG9mIDE5ODM8L2hvcml6ZG4+DQogICAgICAgIDxlbGxpcHM+
+R2VvZGV0aWMgUmVmZXJlbmNlIFN5c3RlbSAxOTgwPC9lbGxpcHM+DQogICAgICAgIDxzZW1pYXhp
+cz42Mzc4MTM3LjAwMDAwMDwvc2VtaWF4aXM+DQogICAgICAgIDxkZW5mbGF0PjI5OC4yNTcyMjI8
+L2RlbmZsYXQ+DQogICAgICA8L2dlb2RldGljPg0KICAgIDwvaG9yaXpzeXM+DQogIDwvc3ByZWY+
+DQogIDxlYWluZm8+DQogICAgPGRldGFpbGVkPg0KICAgICAgPGVudHR5cD4NCiAgICAgICAgPGVu
+dHR5cGw+dXJiYW5fcHJpX2pvaW48L2VudHR5cGw+DQogICAgICAgIDxlbnR0eXBkPlVyYmFuIEZv
+cmVzdCBwcmlvcml0eTwvZW50dHlwZD4NCiAgICAgICAgPGVudHR5cGRzPkRpdmlzaW9uIG9mIEZv
+cmVzdCBSZXNvdXJjZXM8L2VudHR5cGRzPg0KICAgICAgPC9lbnR0eXA+DQogICAgICA8YXR0cj4N
+CiAgICAgICAgPGF0dHJsYWJsPlByaW9yaXR5PC9hdHRybGFibD4NCiAgICAgICAgPGF0dHJkZWY+
+SW50ZXJuYWwgZmVhdHVyZSBudW1iZXIuPC9hdHRyZGVmPg0KICAgICAgICA8YXR0cmRlZnM+RVNS
+STwvYXR0cmRlZnM+DQogICAgICAgIDxhdHRyZG9tdj4NCiAgICAgICAgICA8dWRvbT5TZXF1ZW50
+aWFsIHVuaXF1ZSB3aG9sZSBudW1iZXJzIHRoYXQgYXJlIGF1dG9tYXRpY2FsbHkgZ2VuZXJhdGVk
+LjwvdWRvbT4NCiAgICAgICAgPC9hdHRyZG9tdj4NCiAgICAgIDwvYXR0cj4NCiAgICAgIDxhdHRy
+Pg0KICAgICAgICA8YXR0cmxhYmw+Um93aWQ8L2F0dHJsYWJsPg0KICAgICAgICA8YXR0cmRlZj5J
+bnRlcm5hbCBmZWF0dXJlIG51bWJlci48L2F0dHJkZWY+DQogICAgICAgIDxhdHRyZGVmcz5FU1JJ
+PC9hdHRyZGVmcz4NCiAgICAgICAgPGF0dHJkb212Pg0KICAgICAgICAgIDx1ZG9tPlNlcXVlbnRp
+YWwgdW5pcXVlIHdob2xlIG51bWJlcnMgdGhhdCBhcmUgYXV0b21hdGljYWxseSBnZW5lcmF0ZWQu
+PC91ZG9tPg0KICAgICAgICA8L2F0dHJkb212Pg0KICAgICAgPC9hdHRyPg0KICAgICAgPGF0dHI+
+DQogICAgICAgIDxhdHRybGFibD5WQUxVRTwvYXR0cmxhYmw+DQogICAgICAgIDxhdHRyZGVmPlBp
+eGVsIHZhbHVlLjwvYXR0cmRlZj4NCiAgICAgICAgPGF0dHJkZWZzPkRpdmlzaW9uIG9mIEZvcmVz
+dCBSZXNvdXJjZXM8L2F0dHJkZWZzPg0KICAgICAgICA8YXR0cmRvbXY+DQogICAgICAgICAgPGVk
+b20+DQogICAgICAgICAgICA8ZWRvbXY+MTwvZWRvbXY+DQogICAgICAgICAgICA8ZWRvbXZkPlBp
+eGVsIHZhbHVlIG9mIDEuPC9lZG9tdmQ+DQogICAgICAgICAgICA8ZWRvbXZkcz5EaXZpc2lvbiBv
+ZiBGb3Jlc3QgUmVzb3VyY2VzPC9lZG9tdmRzPg0KICAgICAgICAgIDwvZWRvbT4NCiAgICAgICAg
+PC9hdHRyZG9tdj4NCiAgICAgIDwvYXR0cj4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxh
+Ymw+Q09VTlQ8L2F0dHJsYWJsPg0KICAgICAgICA8YXR0cmRlZj5UaGUgY291bnQgb2YgdGhlIG51
+bWJlciBvZiBwaXhlbHMgd2l0aCB0aGUgc2FtZSB2YWx1ZS48L2F0dHJkZWY+DQogICAgICAgIDxh
+dHRyZGVmcz5EaXZpc2lvbiBvZiBGb3Jlc3QgUmVzb3VyY2VzPC9hdHRyZGVmcz4NCiAgICAgICAg
+PGF0dHJkb212Pg0KICAgICAgICAgIDxlZG9tPg0KICAgICAgICAgICAgPGVkb212PjU0Mzg5MDEz
+PC9lZG9tdj4NCiAgICAgICAgICAgIDxlZG9tdmQ+TnVtYmVyIG9mIHBpeGVscyB3aXRoIHZhbHVl
+IG9mIDEuPC9lZG9tdmQ+DQogICAgICAgICAgICA8ZWRvbXZkcz5EaXZpc2lvbiBvZiBGb3Jlc3Qg
+UmVzb3VyY2VzPC9lZG9tdmRzPg0KICAgICAgICAgIDwvZWRvbT4NCiAgICAgICAgPC9hdHRyZG9t
+dj4NCiAgICAgIDwvYXR0cj4NCiAgICAgIDxhdHRyPg0KICAgICAgICA8YXR0cmxhYmw+UFJJT1JJ
+VFk8L2F0dHJsYWJsPg0KICAgICAgICA8YXR0cmRlZj5Qcmlvcml0eSBnaXZlbiB0byBuZWVkIG9m
+IHVyYmFuIGZvcmVzdHMuPC9hdHRyZGVmPg0KICAgICAgICA8YXR0cmRlZnM+RGl2aXNpb24gb2Yg
+Rm9yZXN0IFJlc291cmNlczwvYXR0cmRlZnM+DQogICAgICAgIDxhdHRyZG9tdj4NCiAgICAgICAg
+ICA8ZWRvbT4NCiAgICAgICAgICAgIDxlZG9tdj5WZXJ5IGhpZ2g8L2Vkb212Pg0KICAgICAgICAg
+ICAgPGVkb212ZD5WZXJ5IGhpZ2ggcHJpb3JpdHkuPC9lZG9tdmQ+DQogICAgICAgICAgICA8ZWRv
+bXZkcz5EaXZpc2lvbiBvZiBGb3Jlc3QgUmVzb3VyY2VzPC9lZG9tdmRzPg0KICAgICAgICAgIDwv
+ZWRvbT4NCiAgICAgICAgPC9hdHRyZG9tdj4NCiAgICAgICAgPGF0dHJkb212Pg0KICAgICAgICAg
+IDxlZG9tPg0KICAgICAgICAgICAgPGVkb212PkhpZ2g8L2Vkb212Pg0KICAgICAgICAgICAgPGVk
+b212ZD5IaWdoIHByaW9yaXR5LjwvZWRvbXZkPg0KICAgICAgICAgICAgPGVkb212ZHM+RGl2aXNp
+b24gb2YgRm9yZXN0IFJlc291cmNlczwvZWRvbXZkcz4NCiAgICAgICAgICA8L2Vkb20+DQogICAg
+ICAgIDwvYXR0cmRvbXY+DQogICAgICAgIDxhdHRyZG9tdj4NCiAgICAgICAgICA8ZWRvbT4NCiAg
+ICAgICAgICAgIDxlZG9tdj5NZWRpdW08L2Vkb212Pg0KICAgICAgICAgICAgPGVkb212ZD5NZWRp
+dW0gcHJpb3JpdHkuPC9lZG9tdmQ+DQogICAgICAgICAgICA8ZWRvbXZkcz5EaXZpc2lvbiBvZiBG
+b3Jlc3QgUmVzb3VyY2VzPC9lZG9tdmRzPg0KICAgICAgICAgIDwvZWRvbT4NCiAgICAgICAgPC9h
+dHRyZG9tdj4NCiAgICAgICAgPGF0dHJkb212Pg0KICAgICAgICAgIDxlZG9tPg0KICAgICAgICAg
+ICAgPGVkb212PkxvdzwvZWRvbXY+DQogICAgICAgICAgICA8ZWRvbXZkPkxvdyBwcmlvcml0eS48
+L2Vkb212ZD4NCiAgICAgICAgICAgIDxlZG9tdmRzPkRpdmlzaW9uIG9mIEZvcmVzdCBSZXNvdXJj
+ZXM8L2Vkb212ZHM+DQogICAgICAgICAgPC9lZG9tPg0KICAgICAgICA8L2F0dHJkb212Pg0KICAg
+ICAgICA8YXR0cmRvbXY+DQogICAgICAgICAgPGVkb20+DQogICAgICAgICAgICA8ZWRvbXY+VmVy
+eSBsb3c8L2Vkb212Pg0KICAgICAgICAgICAgPGVkb212ZD5WZXJ5IGxvdyBwcmlvcml0eS48L2Vk
+b212ZD4NCiAgICAgICAgICAgIDxlZG9tdmRzPkRpdmlzaW9uIG9mIEZvcmVzdCBSZXNvdXJjZXM8
+L2Vkb212ZHM+DQogICAgICAgICAgPC9lZG9tPg0KICAgICAgICA8L2F0dHJkb212Pg0KICAgICAg
+PC9hdHRyPg0KICAgIDwvZGV0YWlsZWQ+DQogIDwvZWFpbmZvPg0KICA8ZGlzdGluZm8+DQogICAg
+PGRpc3RyaWI+DQogICAgICA8Y250aW5mbz4NCiAgICAgICAgPGNudG9yZ3A+DQogICAgICAgICAg
+PGNudG9yZz5OQyBDR0lBPC9jbnRvcmc+DQogICAgICAgIDwvY250b3JncD4NCiAgICAgICAgPGNu
+dGFkZHI+DQogICAgICAgICAgPGFkZHJ0eXBlPlBoeXNpY2FsPC9hZGRydHlwZT4NCiAgICAgICAg
+ICA8YWRkcmVzcz4zMzMgRS4gU2l4IEZvcmtzIFJvYWQ8L2FkZHJlc3M+DQogICAgICAgICAgPGNp
+dHk+UmFsZWlnaDwvY2l0eT4NCiAgICAgICAgICA8c3RhdGU+Tm9ydGggQ2Fyb2xpbmE8L3N0YXRl
+Pg0KICAgICAgICAgIDxwb3N0YWw+Mjc2MDk8L3Bvc3RhbD4NCiAgICAgICAgICA8Y291bnRyeT5V
+LlMuQS48L2NvdW50cnk+DQogICAgICAgIDwvY250YWRkcj4NCiAgICAgICAgPGNudGFkZHI+DQog
+ICAgICAgICAgPGFkZHJ0eXBlPk1haWxpbmc8L2FkZHJ0eXBlPg0KICAgICAgICAgIDxhZGRyZXNz
+PjIwMzIyIE1haWwgU2VydmljZSBDZW50ZXI8L2FkZHJlc3M+DQogICAgICAgICAgPGNpdHk+UmFs
+ZWlnaDwvY2l0eT4NCiAgICAgICAgICA8c3RhdGU+Tm9ydGggQ2Fyb2xpbmE8L3N0YXRlPg0KICAg
+ICAgICAgIDxwb3N0YWw+Mjc2OTk8L3Bvc3RhbD4NCiAgICAgICAgICA8Y291bnRyeT5VLlMuQS48
+L2NvdW50cnk+DQogICAgICAgIDwvY250YWRkcj4NCiAgICAgICAgPGNudHZvaWNlPjkxOS03NTQt
+NjU4MDwvY250dm9pY2U+DQogICAgICAgIDxjbnRmYXg+OTE5LTcxNS04NTUxPC9jbnRmYXg+DQog
+ICAgICAgIDxjbnRlbWFpbD5kYXRhcUBpdHMubmMuZ292PC9jbnRlbWFpbD4NCiAgICAgICAgPGhv
+dXJzPjhhbSB0byA1cG08L2hvdXJzPg0KICAgICAgICA8Y250aW5zdD5QaG9uZSBhbmQgZWxlY3Ry
+b25pYyBtYWlsIHByZWZlcnJlZDwvY250aW5zdD4NCiAgICAgIDwvY250aW5mbz4NCiAgICA8L2Rp
+c3RyaWI+DQogICAgPHJlc2Rlc2M+RG93bmxvYWRhYmxlIERhdGE8L3Jlc2Rlc2M+DQogICAgPGRp
+c3RsaWFiPg0KTkNDR0lBIGlzIGNoYXJnZWQgd2l0aCB0aGUgZGV2ZWxvcG1lbnQgYW5kIG1haW50
+ZW5hbmNlDQpvZiBOQyBPbmVNYXAgYW5kLCBpbiBjb29wZXJhdGlvbiB3aXRoIG90aGVyIG1hcHBp
+bmcNCm9yZ2FuaXphdGlvbnMsIGlzIGNvbW1pdHRlZCB0byBvZmZlcmluZyBpdHMgdXNlcnMgYWNj
+dXJhdGUsDQp1c2VmdWwsIGFuZCBjdXJyZW50IGluZm9ybWF0aW9uLiBBbHRob3VnaA0KZXZlcnkg
+ZWZmb3J0IGhhcyBiZWVuIG1hZGUgdG8gZW5zdXJlIHRoZSBhY2N1cmFjeSBvZg0KaW5mb3JtYXRp
+b24sIGVycm9ycyBhbmQgY29uZGl0aW9ucyBvcmlnaW5hdGluZyBmcm9tDQpwaHlzaWNhbCBzb3Vy
+Y2VzIHVzZWQgdG8gZGV2ZWxvcCB0aGlzIGRhdGFzZXQgbWF5IGJlDQpyZWZsZWN0ZWQgaW4gdGhl
+IGRhdGEgc3VwcGxpZWQuIFRoZSB1c2VyIG11c3QgYmUNCmF3YXJlIG9mIHBvc3NpYmxlIGNvbmRp
+dGlvbnMgYW5kIGJlYXIgcmVzcG9uc2liaWxpdHkgZm9yDQp0aGUgYXBwcm9wcmlhdGUgdXNlIG9m
+IHRoZSBpbmZvcm1hdGlvbiB3aXRoIHJlc3BlY3QgdG8NCnBvc3NpYmxlIGVycm9ycywgb3JpZ2lu
+YWwgbWFwIHNjYWxlLCBjb2xsZWN0aW9uIG1ldGhvZG9sb2d5LA0KY3VycmVuY3kgb2YgZGF0YSwg
+YW5kIG90aGVyIGNvbmRpdGlvbnMgc3BlY2lmaWMgdG8gY2VydGFpbg0KZGF0YS4gTkNDR0lBIGRv
+ZXMgbm90IHN1cHBvcnQgc2Vjb25kYXJ5IGRpc3RyaWJ1dGlvbiBvZg0KdGhpcyBkYXRhc2V0IHdp
+dGhvdXQgaXRzIGN1cnJlbnQsIGNvbXBsaWFudCBtZXRhZGF0YSByZWNvcmQuIFRoZQ0KdXNlIG9m
+IHRyYWRlIG5hbWVzIG9yIGNvbW1lcmNpYWwgcHJvZHVjdHMgZG9lcyBub3QgY29uc3RpdHV0ZSB0
+aGVpcg0KZW5kb3JzZW1lbnQgYnkgTkNDR0lBIG9yIE5vcnRoIENhcm9saW5hIFN0YXRlIEdvdmVy
+bm1lbnQuDQo8L2Rpc3RsaWFiPg0KICAgIDxzdGRvcmRlcj4NCiAgICAgIDxkaWdmb3JtPg0KICAg
+ICAgICA8ZGlndGluZm8+DQogICAgICAgICAgPGZvcm1uYW1lPkVTUkkgc2hhcGVmaWxlICgqLnNo
+cCk8L2Zvcm1uYW1lPg0KICAgICAgICA8L2RpZ3RpbmZvPg0KICAgICAgICA8ZGlndG9wdD4NCiAg
+ICAgICAgICA8b25saW5vcHQ+DQogICAgICAgICAgICA8Y29tcHV0ZXI+DQogICAgICAgICAgICAg
+IDxuZXR3b3JrYT4NCiAgICAgICAgICAgICAgICA8bmV0d29ya3I+ZnRwOi8vZnRwLm5jb25lbWFw
+LmNvbS9vdXRnb2luZy92ZWN0b3IvdXJiYW5fZm9yZXN0X3ByaW9yaXR5LnppcDwvbmV0d29ya3I+
+DQogICAgICAgICAgICAgIDwvbmV0d29ya2E+DQogICAgICAgICAgICA8L2NvbXB1dGVyPg0KICAg
+ICAgICAgIDwvb25saW5vcHQ+DQogICAgICAgIDwvZGlndG9wdD4NCiAgICAgIDwvZGlnZm9ybT4N
+CiAgICAgIDxmZWVzPk5vbmUuIERvd25sb2FkIGZyb20gd3d3Lm5jb25lbWFwLmNvbSBpcyBmcmVl
+IG9mIGNoYXJnZS48L2ZlZXM+DQogICAgPC9zdGRvcmRlcj4NCiAgICA8Y3VzdG9tPg0KRGF0YSBj
+YW4gYmUgY3VzdG9taXplZCBvbiBhIGNvc3QtcmVjb3ZlcnkgYmFzaXMuIENvbnRhY3QgZGF0YXFA
+aXRzLm5jLmdvdg0Kb3IgOTE5LTc1NC02NTgwIGZvciBtb3JlIGluZm9ybWF0aW9uLg0KPC9jdXN0
+b20+DQogICAgPHRlY2hwcmVxPg0KQWxsIGZvcm1hdHMgYXZhaWxhYmxlIGZyb20gd3d3Lm5jb25l
+bWFwLmNvbSBhcmUgaW4gRVNSSSBzaGFwZWZpbGUuDQpPdGhlciBmb3JtYXRzIGFyZSBhdmFpbGFi
+bGUgb24gYSBjb3N0LXJlY292ZXJ5IGJhc2lzIC0gY29udGFjdA0KZGF0YXFAaXRzLm5jLmdvdiBv
+ciA5MTktNzU0LTY1ODAgZm9yIG1vcmUgaW5mb3JtYXRpb24uIEZvcm1hdA0KY29tcGF0aWJpbGl0
+eSBpcyB0aGUgdXNlcidzIHJlc3BvbnNpYmlsaXR5Lg0KPC90ZWNocHJlcT4NCiAgICA8YXZhaWxh
+Ymw+DQogICAgICA8dGltZWluZm8+DQogICAgICAgIDxybmdkYXRlcz4NCiAgICAgICAgICA8YmVn
+ZGF0ZT4yMDEwMDgwNDwvYmVnZGF0ZT4NCiAgICAgICAgICA8ZW5kZGF0ZT5QcmVzZW50PC9lbmRk
+YXRlPg0KICAgICAgICA8L3JuZ2RhdGVzPg0KICAgICAgPC90aW1laW5mbz4NCiAgICA8L2F2YWls
+YWJsPg0KICA8L2Rpc3RpbmZvPg0KICA8bWV0YWluZm8+DQogICAgPG1ldGQ+MjAxMDA4MDQ8L21l
+dGQ+DQogICAgPG1ldGZyZD4yMDE0MDgwNDwvbWV0ZnJkPg0KICAgIDxtZXRjPg0KICAgICAgPGNu
+dGluZm8+DQogICAgICAgIDxjbnRvcmdwPg0KICAgICAgICAgIDxjbnRvcmc+TkMgRGl2aXNpb24g
+b2YgRm9yZXN0IFJlc291cmNlcywgQ2VudHJhbCBPZmZpY2UgKENPKSBHSVMgUHJvZ3JhbTwvY250
+b3JnPg0KICAgICAgICAgIDxjbnRwZXI+QW5kcmV3IEQuIEJhaWxleTwvY250cGVyPg0KICAgICAg
+ICA8L2NudG9yZ3A+DQogICAgICAgIDxjbnRwb3M+R0lTIENvb3JkaW5hdGlvbiBGb3Jlc3Rlcjwv
+Y250cG9zPg0KICAgICAgICA8Y250YWRkcj4NCiAgICAgICAgICA8YWRkcnR5cGU+bWFpbGluZyBh
+ZGRyZXNzPC9hZGRydHlwZT4NCiAgICAgICAgICA8YWRkcmVzcz4xNjE2IE1haWwgU2VydmljZSBD
+ZW50ZXI8L2FkZHJlc3M+DQogICAgICAgICAgPGNpdHk+UmFsZWlnaDwvY2l0eT4NCiAgICAgICAg
+ICA8c3RhdGU+TkM8L3N0YXRlPg0KICAgICAgICAgIDxwb3N0YWw+Mjc2OTktMTYxNjwvcG9zdGFs
+Pg0KICAgICAgICA8L2NudGFkZHI+DQogICAgICAgIDxjbnR2b2ljZT4oOTE5KSA4NTctNDgxMjwv
+Y250dm9pY2U+DQogICAgICAgIDxjbnRmYXg+KDkxOSkgODU3LTQ4MDM8L2NudGZheD4NCiAgICAg
+ICAgPGNudGVtYWlsPkFuZHJldy5CYWlsZXlAbmNkZW5yLmdvdjwvY250ZW1haWw+DQogICAgICAg
+IDxjbnRpbnN0Pmh0dHA6Ly93d3cuZGZyLnN0YXRlLm5jLnVzLzwvY250aW5zdD4NCiAgICAgIDwv
+Y250aW5mbz4NCiAgICA8L21ldGM+DQogICAgPG1ldHN0ZG4+RkdEQyBDb250ZW50IFN0YW5kYXJk
+cyBmb3IgRGlnaXRhbCBHZW9zcGF0aWFsIE1ldGFkYXRhPC9tZXRzdGRuPg0KICAgIDxtZXRzdGR2
+PkZHREMtU1RELTAwMS0xOTk4PC9tZXRzdGR2Pg0KICAgIDxtZXR0Yz5sb2NhbCB0aW1lPC9tZXR0
+Yz4NCiAgICA8bWV0YWM+Tm9uZTwvbWV0YWM+DQogICAgPG1ldHVjPg0KVGhpcyBtZXRhZGF0YSBm
+aWxlIGlzIHRvIGFjY29tcGFueSB0aGUgZGF0YXNldC4gTkNDR0lBIGRvZXMgbm90DQpzdXBwb3J0
+IHNlY29uZGFyeSBkaXN0cmlidXRpb24gb2YgdGhpcyBkYXRhc2V0IHdpdGhvdXQgaXRzIGN1cnJl
+bnQsDQpjb21wbGlhbnQgbWV0YWRhdGEgcmVjb3JkLiBJZiB0aGUgZGF0YXNldCBkZXNjcmliZWQg
+aW4gdGhpcyBtZXRhZGF0YQ0KcmVjb3JkIHdhcyByZWNlaXZlZCBmcm9tIGFueW9uZSBiZXNpZGVz
+IE5DQ0dJQSwgdGhpcyBtZXRhZGF0YSBhbmQNCnRoZSBkYXRhc2V0IGl0IGRlc2NyaWJlcyBtYXkg
+Y29udGFpbiBkaXNjcmVwYW5jaWVzLg0KPC9tZXR1Yz4NCiAgICA8bWV0ZXh0bnM+DQogICAgICA8
+b25saW5rPmh0dHA6Ly93d3cuZXNyaS5jb20vbWV0YWRhdGEvZXNyaXByb2Y4MC5odG1sPC9vbmxp
+bms+DQogICAgICA8bWV0cHJvZj5FU1JJIE1ldGFkYXRhIFByb2ZpbGU8L21ldHByb2Y+DQogICAg
+PC9tZXRleHRucz4NCiAgPC9tZXRhaW5mbz4NCiAgPEVzcmk+DQogICAgPENyZWFEYXRlPjIwMTIx
+MDAzPC9DcmVhRGF0ZT4NCiAgICA8Q3JlYVRpbWU+MTQ1MzUyMDA8L0NyZWFUaW1lPg0KICAgIDxB
+cmNHSVNzdHlsZT5GR0RDIENTREdNIE1ldGFkYXRhPC9BcmNHSVNzdHlsZT4NCiAgICA8U3luY09u
+Y2U+VFJVRTwvU3luY09uY2U+DQogICAgPERhdGFQcm9wZXJ0aWVzPg0KICAgICAgPGNvcHlIaXN0
+b3J5Pg0KICAgICAgICA8Y29weSBzb3VyY2U9IkM6XFVzZXJzXGRwZ2lvcmRhbm8xXERlc2t0b3Bc
+bmNfZm9yZXN0X3NlcnZpY2VfcmVsZWFzZVx1cmJuX3ByaV9tZXRhZGF0YS50eHQiIGRlc3Q9Ilxc
+TC1DTlUyMjUxRjIyXEMkXFVzZXJzXGRwZ2lvcmRhbm8xXERvY3VtZW50c1xDR0lBXE5DT25lTWFw
+XGRhdGFiYXNlX2N1cnJlbnRcdXJiYW5fZm9yZXN0X3ByaW9yaXR5XGN1cnJlbnRcdXJibl9wcmlf
+bWV0YWRhdGEudHh0IiBkYXRlPSIyMDEyMTAwMyIgdGltZT0iMTQ1MzUyMDAiIC8+DQogICAgICA8
+L2NvcHlIaXN0b3J5Pg0KICAgIDwvRGF0YVByb3BlcnRpZXM+DQogIDwvRXNyaT4NCjwvbWV0YWRh
+dGE+</Data></Enclosure></Binary></metadata>
